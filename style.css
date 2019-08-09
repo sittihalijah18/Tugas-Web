@@ -1,0 +1,10 @@
+body{
+
+	background-color: blue;
+}
+.main{	
+	float: center;
+	width: 400px;
+	min-height: 600px;
+	background-color: orange;	
+	margin-left: 500px;
